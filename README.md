@@ -13,7 +13,7 @@
     <img src="https://github.com/user-attachments/assets/3f365fa4-2990-4c7c-a3aa-8c0109c8e598" alt="button1" width="100">
   </a>　
   <a href="https://rentry.co/luuvbite">
-    <img src="https://github.com/user-attachments/assets/2201238f-dc14-4d77-b416-3b457e4791fe" alt="button2" width="100">
+    <img src="https://github.com/user-attachments/assets/12e124c1-81df-4f57-bb9d-f9afdcd13a25" alt="button2" width="105">
   </a>　
   <a href="https://luuvbite.atabook.org/">
     <img src="https://github.com/user-attachments/assets/0ff1e6e2-f6cf-429f-ab74-b9a9625155f0" alt="button3" width="100">
