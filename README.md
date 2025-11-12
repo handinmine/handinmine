@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">　
-work in pawgwess !!
+$${\color{#f9f2cf}work \ in \ pawgress!}$$
 </p>
 
 <p align="center">
