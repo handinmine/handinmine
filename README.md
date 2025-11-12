@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">　
-$${\color{#f9f2cf}work \ in \ pawgress!}$$
+$${\color{#f9f2cf}work \ in \ pawgress! \ ⠀⠀𓂅}$$ <img width="20" height="20" alt="image" src="https://files.catbox.moe/3ia3zo.png" />
 </p>
 
 <p align="center">
