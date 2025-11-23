@@ -20,16 +20,16 @@
 
 <p align="center">
   <a href="https://luuvbite.atabook.org/">
-    <img src="https://files.catbox.moe/3oeehb.png"width="110"/>
+    <img src="https://files.catbox.moe/8as1qd.png"width="110"/>
   </a>
   <a href="https://rentry.co/philophillia">
-    <img src="https://files.catbox.moe/0g4inj.png"width="110"/>
+    <img src="https://files.catbox.moe/xhpgio.png"width="110"/>
   </a>
   <a href="https://rentry.co/luuvbite">
-    <img src="https://files.catbox.moe/7nyvvq.png"width="110"/>
+    <img src="https://files.catbox.moe/sicyqb.png"width="110"/>
   </a>
   <a href="https://luuvbite.straw.page/">
-    <img src="https://files.catbox.moe/o6g8tx.png"width="110"/>
+    <img src="https://files.catbox.moe/e7zrqb.png"width="110"/>
   </a>
 </p>
 
