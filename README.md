@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-  <a href="https://luuvbite.atabook.org/">
+  <a href="https://nekopawlitan.atabook.org/">
     <img src="https://files.catbox.moe/8as1qd.png"width="110"/>
   </a>⠀
-  <a href="https://rentry.co/philophillia">
+  <a href="https://rentry.co/nekopawlitan">
     <img src="https://files.catbox.moe/xhpgio.png"width="110"/>
   </a>⠀
-  <a href="https://guns.lol/philophillia">
+  <a href="https://guns.lol/nekopawlitan">
     <img src="https://files.catbox.moe/nmszs2.png"width="110"/>
   </a>⠀
   <a href="https://luuvbite.straw.page/">
