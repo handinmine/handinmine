@@ -18,6 +18,9 @@
  <img width="100" height="100" alt="image" src="https://files.catbox.moe/nwkpal.png" />
 </p>
 
+$${\color{#f8f3d6}color⠀my⠀tree⠀₊°｡❆}$$
+
+
 <p align="center">
   <a href="https://nekopawlitan.atabook.org/">
     <img src="https://files.catbox.moe/8as1qd.png"width="110"/>
