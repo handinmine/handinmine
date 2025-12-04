@@ -3,8 +3,6 @@
 </p>
 
 
-
-
 <p align="center">　　
  <img width="200" height="200" alt="image" src="https://files.catbox.moe/h6nxv7.gif"/>⠀⠀⠀
  
@@ -38,9 +36,9 @@
 </p>
 
 <p align="center">
-  <img width="400" height="400" alt="image" src="https://files.catbox.moe/9i4hix.png"/>⠀
+  <img width="600" height="600" alt="image" src="https://files.catbox.moe/9i4hix.png"/>⠀
 </p>
 
 <p align="center">
-<img width="720" height="700" alt="image" src="https://files.catbox.moe/bczgzv.gif" />
+<img width="720" height="700" alt="image" src="https://files.catbox.moe/8o40za.png" />
 </p>
