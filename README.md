@@ -39,9 +39,5 @@ $${\color{#f9f5d8}color⠀⠀my⠀⠀tree⠀⠀!!}$$
 </p>
 
 <p align="center">
-  <img width="600" height="600" alt="image" src="https://files.catbox.moe/9i4hix.png"/>⠀
-</p>
-
-<p align="center">
-<img width="720" height="700" alt="image" src="https://files.catbox.moe/8o40za.png" />
+  <img width="600" height="600" alt="image" src="https://files.catbox.moe/rb6b4e.png"/>⠀
 </p>
