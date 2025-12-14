@@ -17,10 +17,6 @@
 </p>　
 
 <p align="center">
-$${\color{#f9f5d8}color⠀⠀my⠀⠀tree⠀⠀!!}$$
-</p>　
-
-<p align="center">
   <a href="https://nekopawlitan.atabook.org/">
     <img src="https://files.catbox.moe/8as1qd.png"width="110"/>
   </a>⠀
@@ -39,5 +35,5 @@ $${\color{#f9f5d8}color⠀⠀my⠀⠀tree⠀⠀!!}$$
 </p>
 
 <p align="center">
-  <img width="600" height="600" alt="image" src="https://files.catbox.moe/rb6b4e.png"/>⠀
+  <img width="544" height="498" alt="image" src="https://github.com/user-attachments/assets/3f52771b-6f82-4a14-ab37-75312c3fbfad"/>⠀
 </p>
