@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="https://nekopawlitan.atabook.org/">
+  <a href="https://pawrrfait.atabook.org/">
     <img src="https://files.catbox.moe/8as1qd.png"width="110"/>
   </a>⠀
-  <a href="https://rentry.co/nekopawlitan">
+  <a href="https://pawrrfait.co/nekopawlitan">
     <img src="https://files.catbox.moe/xhpgio.png"width="110"/>
   </a>⠀
    <a href="https://colormytree.me/2025/01KBC9YH5MGS8WYWA4EFVQNSQM">
     <img src="https://files.catbox.moe/le9pom.png"width="50"/>
   </a>⠀
-  <a href="https://guns.lol/nekopawlitan">
+  <a href="https://guns.lol/pawrrfait">
     <img src="https://files.catbox.moe/nmszs2.png"width="110"/>
   </a>⠀
   <a href="https://luuvbite.straw.page/">
