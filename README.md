@@ -6,7 +6,7 @@
   <a href="https://pawrrfait.atabook.org/">
     <img src="https://files.catbox.moe/8as1qd.png"width="110"/>
   </a>⠀
-  <a href="https://pawrrfait.co/nekopawlitan">
+  <a href="https://rentry.co/pawrrfait">
     <img src="https://files.catbox.moe/xhpgio.png"width="110"/>
   </a>⠀
    <a href="https://colormytree.me/2025/01KBC9YH5MGS8WYWA4EFVQNSQM">
