@@ -34,6 +34,18 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=false&theme=novatorem&show_offline=true&background_color=f9f5d9&interchange=false&profanity=false&bar_color=f8a8ba&bar_color_cover=false"> <img width="61" height="69" alt="image" src="https://files.catbox.moe/kqljsp.png" />
 </p>　
+
+<p align="center">
+  <a href="https://pawrrfait.carrd.co/">
+    <img src="https://files.catbox.moe/5z2gay.png"width="90"/>
+  </a>⠀
+  <a href="https://en.pronouns.page/@pawrrfait">
+    <img src="https://files.catbox.moe/lfvi5b.png"width="90"/>
+  </a>⠀
+  <a href="https://listography.com/0633921467">
+    <img src="https://files.catbox.moe/98h8fg.png"width="90"/>
+  </a>⠀
+</p>
     
     
 <p align="center">
