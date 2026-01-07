@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=false&theme=novatorem&show_offline=true&background_color=f9f5d9&interchange=false&profanity=false&bar_color=f8a8ba&bar_color_cover=false"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=false&theme=novatorem&show_offline=true&background_color=f9f5d9&interchange=false&profanity=false&bar_color=fca8c9&bar_color_cover=false"/>
 </p>　
     
 <p align="center">
