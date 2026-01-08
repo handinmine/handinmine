@@ -25,7 +25,7 @@
 </p>
 
 <p>
-　　　　　　　　　　　　　 <a href="https://guns.lol/pawrrfait">
+　　　　　　　　　　 <a href="https://guns.lol/pawrrfait">
     <img src="https://files.catbox.moe/hsuvec.png"width="90"/>
   </a>
  <a href="https://en.pronouns.page/@pawrrfait/">
