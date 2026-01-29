@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-♡ 　all i ever wanted was the world 　　 ᜊ𐔌๑ ´  ˔  ` ꒱੭
+♡ 　i want so badly your message come through ! 　　 ᜊ𐔌๑ ´  ˔  ` ꒱੭
 </p>
