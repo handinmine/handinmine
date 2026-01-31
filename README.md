@@ -4,4 +4,5 @@
 
 <p align="center">
 ♡ 　i want so badly your message come through ! 　　 ( ´ㅅ` Ｕ)ﾉｼ
+ 　ৎ 　˚　　socials are getting redesigned 　<3
 </p>
