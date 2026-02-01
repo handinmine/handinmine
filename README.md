@@ -21,3 +21,5 @@
 
  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rcxzij7oqnpmtxkcufjzuubiui&cover_image=false&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=af2a4a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)　 <img src="https://files.catbox.moe/bcrgrf.gif" width="70" alt="senbonzakura!">
+
+<img src="https://files.catbox.moe/taeyfq.png" width="600" align="right">
