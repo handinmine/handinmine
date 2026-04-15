@@ -23,4 +23,4 @@
 　　 [<img src="https://files.catbox.moe/k7cyyg.png" width="120" alt="atabook!">](https://huskyki.atabook.org/) 　　　　 [<img src="https://files.catbox.moe/qe1rx7.png" width="120" alt="atabook!">](https://guns.lol/huskyki) 　　　　　 <img src="https://files.catbox.moe/eoxlej.png" width="420" alt="kurukuru!">
 
 
-<img src="https://files.catbox.moe/tw5fkd.png" width="400" align="left" alt="kurukuru!">　 <img src="https://files.catbox.moe/i9rlxt.png" width="420" alt="kurukuru!">
+<img src="https://files.catbox.moe/tw5fkd.png" width="390" align="left" alt="kurukuru!">　 <img src="https://files.catbox.moe/i9rlxt.png" width="420" alt="kurukuru!">
